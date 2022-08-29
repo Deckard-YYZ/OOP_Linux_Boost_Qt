@@ -1,0 +1,40 @@
+\hypertarget{classblackkey}{}\doxysection{blackkey Class Reference}
+\label{classblackkey}\index{blackkey@{blackkey}}
+
+
+Inheritance diagram for blackkey\+:
+% FIG 0
+
+
+Collaboration diagram for blackkey\+:
+% FIG 1
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{classblackkey_a6c70f1a8016982af9a050d59e9736ed9}\label{classblackkey_a6c70f1a8016982af9a050d59e9736ed9}} 
+void {\bfseries set\+All} (int x, int y, int w, int h, const Q\+String \&piano\+\_\+tune)
+\item 
+\mbox{\Hypertarget{classblackkey_a508e8e8018785f4b8a5b843e68e3fac0}\label{classblackkey_a508e8e8018785f4b8a5b843e68e3fac0}} 
+void {\bfseries set\+\_\+piano\+\_\+tune} (Q\+String newtune)
+\item 
+\mbox{\Hypertarget{classblackkey_a4275437af1aca8e8ec60ada76c635ebe}\label{classblackkey_a4275437af1aca8e8ec60ada76c635ebe}} 
+void {\bfseries set\+\_\+piano\+\_\+geo} (int x\+\_\+axis, int y\+\_\+axis, int width, int high)
+\item 
+\mbox{\Hypertarget{classblackkey_a5b189c0bd467821f794682b798e4156d}\label{classblackkey_a5b189c0bd467821f794682b798e4156d}} 
+void {\bfseries play} ()
+\item 
+\mbox{\Hypertarget{classblackkey_a481e94a7c1b4e1f3ccb2553f8cb0940f}\label{classblackkey_a481e94a7c1b4e1f3ccb2553f8cb0940f}} 
+void {\bfseries volumenotify} (qreal voulme)
+\item 
+\mbox{\Hypertarget{classblackkey_a792a8fb2466e8b15d9baf2c92df3dbe5}\label{classblackkey_a792a8fb2466e8b15d9baf2c92df3dbe5}} 
+void {\bfseries tunesnotify} (Q\+String t)
+\item 
+\mbox{\Hypertarget{classblackkey_a0432f2d95ea773924b51b4d9f9c4236a}\label{classblackkey_a0432f2d95ea773924b51b4d9f9c4236a}} 
+std\+::string {\bfseries get\+\_\+piano\+\_\+name} ()
+\end{DoxyCompactItemize}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+blackkey.\+h\item 
+blackkey.\+cpp\end{DoxyCompactItemize}
